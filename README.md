@@ -1,4 +1,4 @@
-# Fedora Bootc GNOME Minimal
+# Fedora Bootc MATE Minimal
 
 [![Use this template](https://img.shields.io/badge/Use%20this-template-2ea44f?logo=github)](https://github.com/Ferlinuxdebian/gnome-minimal/generate)
 ![feito com bootc](https://img.shields.io/badge/feito_com-bootc-51A2DA)
@@ -8,7 +8,7 @@
 ![feito com Podman](https://img.shields.io/badge/feito_com-Podman-892CA0?logo=podman&logoColor=white)
 ![compatível com Docker](https://img.shields.io/badge/compat%C3%ADvel_com-Docker-2496ED?logo=docker&logoColor=white)
 
-Uma imagem de sistema **atômico** baseada no **Fedora 45**, com um **GNOME
+Uma imagem de sistema **atômico** baseada no **Fedora 45**, com um **MATE
 minimalista**, pensada como ponto de partida para quem está começando com
 `bootc`.
 
